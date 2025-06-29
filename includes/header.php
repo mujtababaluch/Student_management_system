@@ -56,15 +56,15 @@
 
             <!-- Nav Item - Pages Collapse Menu -->
             <li class="nav-item">
-                <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseTwo"
-                    aria-expanded="true" aria-controls="collapseTwo">
+                <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseone"
+                    aria-expanded="true" aria-controls="collapseone">
                     <i class="fas fa-fw fa-wrench"></i>
                     <span>Teacher</span>
                 </a>
-                <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
+                <div id="collapseone" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
                     <div class="bg-white py-2 collapse-inner rounded">
-                        <a class="collapse-item" href="buttons.html">Add Teachers</a>
-                        <a class="collapse-item" href="cards.html">View Teachers</a>
+                        <a class="collapse-item" href="add-teachers.php">Add Teachers</a>
+                        <a class="collapse-item" href="view-teachers.php">View Teachers</a>
                     </div>
                 </div>
             </li>
@@ -76,21 +76,21 @@
                 </a>
                 <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
                     <div class="bg-white py-2 collapse-inner rounded">
-                        <a class="collapse-item" href="buttons.html">Add Student</a>
-                        <a class="collapse-item" href="cards.html">View Student</a>
+                        <a class="collapse-item" href="add-student.php">Add Student</a>
+                        <a class="collapse-item" href="view-student.php">View Student</a>
                     </div>
                 </div>
             </li>
               <li class="nav-item">
-                <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseTwo"
-                    aria-expanded="true" aria-controls="collapseTwo">
+                <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseThree"
+                    aria-expanded="true" aria-controls="collapseThree">
                     <i class="fas fa-fw fa-cog"></i>
                     <span>Batches</span>
                 </a>
-                <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
+                <div id="collapseThree" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
                     <div class="bg-white py-2 collapse-inner rounded">
-                        <a class="collapse-item" href="buttons.html">Add Batches</a>
-                        <a class="collapse-item" href="cards.html">View Batches</a>
+                        <a class="collapse-item" href="add-batch.php">Add Batches</a>
+                        <a class="collapse-item" href="view-batch.php">View Batches</a>
                     </div>
                 </div>
             </li>
